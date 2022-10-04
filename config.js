@@ -41,6 +41,71 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
 
+global.wm = '𝐑𝐢𝐦𝐮𝐫𝐮 あ' 
+
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+
+global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+
+global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
+
+global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
+
+global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
+`
+
+global.author = '𝐑𝐮𝐦𝐢𝐧𝐚𝐬 -𝐦𝐝'
+
+// Sticker WM
+global.packname = ''
+global.author = ''
+
+global.sgc = 'https://chat.whatsapp.com/CZlamemhpn06a5sW063xOg'
+global.sig = 'https://instagram.com/'
+//========Url Template Buttons=========//
+global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
+global.urlnya = "nhentai.com,"
+
+//============= callButtons =============//
+global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
+global.phn = '+62 895-6275-14070'
+global.multiplier = 69 // The higher, The harder levelup
+/*============== NOMOR ==============*/
+global.nomorbot = '6289636443917'
+global.nomorown = '62895627514079'
+global.namebot = 'ʀᴜᴍɪɴᴀs-ᴍᴅ'
+global.nameown = 'Rimuru'
+
+/*=========== FAKE SIZE ===========*/
+global.fsizedoc = '99999999999999' // default 10TB
+global.fpagedoc = '999'
+
+/*=========== HIASAN ===========*/
+// DEFAULT MENU
+global.dmenut = '❏═┅═━–〈' //top
+global.dmenub = '┊›' //body
+global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenuf = '┗––––––––––✦' //footer
+
+// COMMAND MENU
+global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
+global.cmenut = '❏––––––『' //top
+global.cmenuh = '』––––––' //header
+global.cmenub = '┊々 ' //body
+global.cmenuf = '┗━═┅═━––––––๑\n' //footer
+global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
+global.pmenus = '✦' //pembatas menu selector
+
+global.htki = '––––––『' //hiasan title kiri
+global.htka = '』––––––' //hiasan title kanan
+global.lopr = 'Ⓟ'
+global.lolm = 'Ⓛ'
+global.htjava = '⫹⫺' 
+global.hsquere = '⛶', '❏', '⫹⫺'
+global.l = '「'
+global.r = '」'
+
+
 global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
 'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
 'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
