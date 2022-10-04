@@ -47,13 +47,6 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧�
 
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
-global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
-
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
-
-global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
-`
-
 global.author = '𝐑𝐮𝐦𝐢𝐧𝐚𝐬 -𝐦𝐝'
 
 // Sticker WM
